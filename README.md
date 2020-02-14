@@ -1,2 +1,25 @@
 # A03
-I will do homework 3 now
+GIT
+
+GITHUB
+
+Repository
+
+Clone
+
+Commit
+
+Push
+
+Pull
+
+Branch
+
+Merge
+
+Merge Conflict
+
+Fetch
+
+Remote
+
