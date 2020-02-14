@@ -1,2 +1,2 @@
 # A03
-hi
+I will do homework 3 now
