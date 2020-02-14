@@ -1,25 +1,25 @@
 # A03
-GIT
+GIT - 
 
-GITHUB
+GITHUB - 
 
-Repository
+Repository - 
 
-Clone
+Clone - 
 
-Commit
+Commit - 
 
-Push
+Push - 
 
-Pull
+Pull - 
 
-Branch
+Branch - 
 
-Merge
+Merge - 
 
-Merge Conflict
+Merge Conflict - 
 
-Fetch
+Fetch - 
 
-Remote
+Remote - 
 
